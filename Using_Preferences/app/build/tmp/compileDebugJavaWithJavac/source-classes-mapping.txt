@@ -1,0 +1,16 @@
+com/example/using_preferences/MainActivity.java
+ com.example.using_preferences.MainActivity
+ com.example.using_preferences.MainActivity$1
+com/example/using_preferences/RegisterActivity.java
+ com.example.using_preferences.RegisterActivity
+ com.example.using_preferences.RegisterActivity$1
+ com.example.using_preferences.RegisterActivity$2
+com/example/using_preferences/Preferences.java
+ com.example.using_preferences.Preferences
+com/example/using_preferences/BuildConfig.java
+ com.example.using_preferences.BuildConfig
+com/example/using_preferences/LoginActivity.java
+ com.example.using_preferences.LoginActivity
+ com.example.using_preferences.LoginActivity$1
+ com.example.using_preferences.LoginActivity$2
+ com.example.using_preferences.LoginActivity$3
